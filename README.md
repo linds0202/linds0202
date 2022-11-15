@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JavaScript & React**
 
-- 👨‍💻 All of my projects are available at www.lindsayrainey.com (www.lindsayrainey.com)
+- 👨‍💻 All of my projects are available at www.lindsayrainey.com 
 
 - 📫 How to reach me **lindsayarainey@gmail.com**
 
