@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Lindsay Rainey</h1>
 <h3 align="center">A software developer from Vancouver, BC</h3>
 
-- 🌱 I’m currently learning **JavaScript & React**
+- 🌱 I’m currently working with **Pyside2 & PyQt5**
 
 - 👨‍💻 All of my projects are available at www.lindsayrainey.com 
 
@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact: **I crochet and knit lots of things and then unravel them!**
 
-<p>Innovative, detail-oriented, task-driven software engineer with a deep interest in integrating technology within the Education space. Proven track record of designing and implementing successful front and back end web applications. Looking to bring my skills to an ed-tech company impacting learning outcomes for students . </p>
+<p>Innovative, detail-oriented, task-driven software developer with a deep interest in utilizing code within the VFX pipeline. Proven track record of designing and implementing successful front and back end web applications. Looking to bring my skills to a technical role in the VFX industry.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
