@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently working with **Pyside2 & PyQt5**
 
-- 👨‍💻 All of my projects are available at www.lindsayrainey.com 
+- 👨‍💻 All of my projects are available at www.lindsayrainey.com and https://vimeo.com/lindsayrainey
 
 - 📫 How to reach me **lindsayarainey@gmail.com**
 
